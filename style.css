@@ -199,3 +199,65 @@ body {
     margin-bottom: 50px;
 }
 /* last main section */
+.last-main-header{
+    font-weight: 800;
+}
+.last-main-para{
+    font-size: 10px;
+    font-weight: 400;
+    color: rgb(126, 126, 126);
+    margin: 10px 0px;
+}
+.input-email{
+    padding: 15px 150px 10px 15px  ;
+    border: none;
+}
+.email-button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.last-main{
+    /* width: 70%;
+    height: 200px;
+    background-image: url('image/Rectangle\ 9.png');
+    background-repeat: no-repeat; */
+
+    background-image: url('image/Rectangle\ 9.png');
+    height: 250px;
+    width: 800px;
+    background-blend-mode: overlay;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    /* margin: auto; */
+    margin: 100px auto;
+    border-radius: 5px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+/* footer related styles */
+.main-footer-header{
+    font-size: 30px;
+    font-weight: 800;
+}
+.flower-footer{
+    color: #e24b71;
+}
+.last-footer-para{
+    font-size: 11px;
+    color: rgb(195, 193, 193);
+    margin: 15px 0px;
+}
+.last-header{
+    font-weight: 400;
+    color: rgb(104, 104, 104);
+}
+.main-footer{
+    background-color: rgb(17, 17, 17);
+    color: white;
+    text-align: center;
+    padding: 80px 0px;
+}
